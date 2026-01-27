@@ -1,1 +1,1 @@
-# INFO-5139-Full-Stack
+# INFO-5139-Application Project
